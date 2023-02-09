@@ -1,0 +1,26 @@
+.footer h4 {
+  text-align: center;
+  font-size: 30px;
+}
+
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #96AEB0;
+}
+
+.footer a {
+  font-size: 50px;
+  color: #F1C19E;
+  padding: 10px;
+}
+
+.footer p {
+  color:  #F1C19E;
+  opacity: .8;
+}
+
+.footer a:hover {
+  color: #551A8B;
+  transition: all ease .5s;
+}
